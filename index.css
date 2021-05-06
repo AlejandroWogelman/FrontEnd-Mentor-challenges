@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding: 0;
+    
+}
+table{
+    width: 100%;
+}
+.bottom-table{
+    font-size: small;
+}
+
+header{
+    background:hsl(233, 47%, 7%);
+    padding: 15px 20px;
+}
+
+.background-img{
+    background-image: url(./images/image-header-desktop.jpg);
+    min-height: 270px;
+    max-height: 100%;
+    background-size: cover;
+   
+
+ 
+}
+.imagen{
+    width: 100%;
+    height: 100%;
+    background-color:hsla(277, 64%, 61%, 0.555);
+ 
+}
+.background{
+  
+    color: hsl(0, 0%, 100%);
+    height: auto;
+    background: hsl(244, 38%, 16%);
+}
+span{
+    color: hsl(277, 64%, 61%);
+}
+
+
+h1{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 700;
+}
